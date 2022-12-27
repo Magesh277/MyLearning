@@ -13,3 +13,12 @@ Ngrx (state management)
 Content projection
 AOT vs JIT
 Change detection
+
+I would say you must learn these topics,
+
+Directives
+Scope Object
+Ng-repeat
+Angular UI & Bootstrap
+Routing
+Service

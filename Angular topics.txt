@@ -8,3 +8,8 @@ Directives- inbuilt and custom
 Routing
 Dependency Injection and how it is achieved in angular.
 Modules
+Rxjs
+Ngrx (state management)
+Content projection
+AOT vs JIT
+Change detection

@@ -1,0 +1,10 @@
+Angular Topics
+
+Components
+Component interaction
+Pipes- inbuilt and custom pipes
+Services
+Directives- inbuilt and custom
+Routing
+Dependency Injection and how it is achieved in angular.
+Modules
